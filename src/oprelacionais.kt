@@ -5,8 +5,8 @@ fun main(args: Array<String>) {
 
     println(valor1 == valor2)// retorna um valor booleano
     println(valor1 <= valor2) // valor1 é menor ou igual a valor 2 = true
-    println(valor1 > valor2)
-    println(valor1 < valor2)
-    println(valor1 >= valor2)
-    println(valor1 != valor2)
+    println(valor1 > valor2)//
+    println(valor1 < valor2)//
+    println(valor1 >= valor2)//
+    println(valor1 != valor2)//
 }
